@@ -1,7 +1,7 @@
 @import url("styless/header.css");
 
 :root{
-    --cor-de-fundo:yellow; 
+    --cor-de-fundo:rgb(246, 225, 225);
 }
 body{
     background-color: var(--cor-de-fundo);
